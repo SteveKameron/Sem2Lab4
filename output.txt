@@ -1,0 +1,166 @@
+==========Starting Container==========
+Albert Camus
+Outsider
+French
+1942
+90
+
+Marcel Proust
+In search of lost time
+French
+1913
+60
+
+Franz Kafka
+Process
+German
+1925
+164
+
+Andre Malraux
+Human destiny
+French
+1933
+191
+
+Boris Vian
+Foam days
+French
+1947
+102
+
+Alexander Solzhenitsyn
+Gulag Archipelago
+Russian
+1973
+79
+
+Vladimir Nabokov
+Lolita
+English-Russian
+1955
+53
+
+Dino Buzzati
+Tatar desert
+Italian
+1940
+106
+
+Gabriel Garcia Marquez
+One Hundred Years of Solitude
+Spanish
+1968
+162
+
+======================================
+==========After Sorting==========
+Albert Camus
+Outsider
+French
+1942
+90
+
+Alexander Solzhenitsyn
+Gulag Archipelago
+Russian
+1973
+79
+
+Andre Malraux
+Human destiny
+French
+1933
+191
+
+Boris Vian
+Foam days
+French
+1947
+102
+
+Dino Buzzati
+Tatar desert
+Italian
+1940
+106
+
+Franz Kafka
+Process
+German
+1925
+164
+
+Gabriel Garcia Marquez
+One Hundred Years of Solitude
+Spanish
+1968
+162
+
+Marcel Proust
+In search of lost time
+French
+1913
+60
+
+Vladimir Nabokov
+Lolita
+English-Russian
+1955
+53
+
+==========List==========
+Albert Camus
+Outsider
+French
+1942
+90
+
+Marcel Proust
+In search of lost time
+French
+1913
+60
+
+Franz Kafka
+Process
+German
+1925
+164
+
+Andre Malraux
+Human destiny
+French
+1933
+191
+
+Boris Vian
+Foam days
+French
+1947
+102
+
+Alexander Solzhenitsyn
+Gulag Archipelago
+Russian
+1973
+79
+
+Vladimir Nabokov
+Lolita
+English-Russian
+1955
+53
+
+Dino Buzzati
+Tatar desert
+Italian
+1940
+106
+
+Gabriel Garcia Marquez
+One Hundred Years of Solitude
+Spanish
+1968
+162
+
